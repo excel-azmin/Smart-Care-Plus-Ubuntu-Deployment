@@ -13,3 +13,4 @@
 * [Configure Project WEB Part](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Configure-Project-WEB)
 * [Publish App into Docker Hub](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Publish-App-into-Docker-Hub)
 * [Deploy WEB, API & Database to Server](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Deploy-WEB,-API-&-Database-to-Server)
+* [Restore Database](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Restore-Database)
