@@ -1,4 +1,4 @@
-# Smart Care PRODUCTION DEPLOY ON UBUNTU SERVER
+# Smart Care Containerized PRODUCTION DEPLOY ON UBUNTU SERVER
 
 **Complete Following Process Step by Step to deploy the `Smart Care` Apps into `Ubuntu Server` using `Docker Swarm Rocks`**
 
