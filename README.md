@@ -9,6 +9,7 @@
 * [Docker Swarm Setup](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Docker-Swarm-Setup)
 * [Traefik Setup](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Traefik-Setup)
 * [Portainer Setup](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Portainer-Setup)
+* [Install Docker on your local machine](https://docs.docker.com/get-docker/) and [Create a Dockerhub account](https://hub.docker.com/signup)
 * [Configure Project API Part](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Configure-Project-API)
 * [Configure Project WEB Part](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Configure-Project-WEB)
 * [Publish App into Docker Hub](https://github.com/excel-azmin/Smart-Care-Plus-Ubuntu-Deployment/wiki/Publish-App-into-Docker-Hub)
